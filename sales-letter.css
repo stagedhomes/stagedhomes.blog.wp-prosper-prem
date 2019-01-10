@@ -1,0 +1,92 @@
+/* -------------------[ Sales Page Template Styles ]------------------- */
+
+body.sales1 {
+	line-height:1.5em;
+	padding: 40px 0;
+	}
+
+body.sales1 p {
+	margin-bottom:25px;
+	}
+
+.sales1 #wrap {
+	margin: 0;
+	}
+
+.sales1 #page {
+	width:620px;
+	padding:50px 50px 10px;
+	border:10px solid #ddd;
+	}
+
+.sales1 #footer {
+	width:740px;
+	text-align:center;
+	}
+
+.sales1 .entry {
+	font-size:12pt;
+	line-height:1.5em;
+	}
+
+.entry img {
+	border:0;
+	padding:0;
+	background:#fff;
+        }
+
+.post ul.check {
+	margin-left: 0px;
+	}
+
+.post ul.check li {
+	padding-left:32px;
+	margin-bottom: 10px;
+	background:url(images/check.gif) 0 4px no-repeat;
+	}
+
+.post ul li {
+	list-style-type:none;
+	padding: 0;
+	margin: 0 0 5px;
+	padding-left:16px;
+	background:url(images/bullet.gif) 0 5px no-repeat;
+	}
+
+blockquote.testimonial {
+	margin: 0 auto 25px;
+	width:80%;
+	color:#333;
+	border:5px solid #ddd;
+	background:#eee;
+	font-size:10pt;
+	line-height:1.3em;
+	padding: 20px 20px 5px;
+	}
+
+blockquote.guarantee {
+	font-size:10pt;
+	line-height:1.3em;
+	margin: 0 auto 25px;
+	width:60%;
+	color:#333;
+	border:5px solid #B8D6E5;
+	padding: 20px 20px 20px 160px;
+	background:#CCEEFF url(images/guar.gif) 20px 20px no-repeat;
+	min-height:125px;
+	}
+
+
+
+blockquote.belcher-button {
+	font-size:14pt;
+	line-height:1.3em;
+	margin: 0 auto 15px;
+	width:460px;
+	color:#333;
+	border:0;
+	border: 6px dashed #cc0000;
+	text-align:center;
+	padding: 20px 40px;
+	background:#fff;
+	}
